@@ -106,7 +106,6 @@ cursor: pointer;
     display: block;
     fill: #2E2F42;
 }
-
 @media screen and (min-width: 768px) {
     .mobil-button-menu {
         display: none;
